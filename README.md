@@ -6,7 +6,7 @@ that doesn’t use any internet connection to transfer data between devices. Thi
 
 
 ## Overview
-Some people are planning to go on trip to a forest or Disaster zone where all network infrastructues has been broken and damaged or somewhere the mobile 
+Some people are planning to go on trip to a forest or Disaster zone where all network infrastructures has been broken and damaged or somewhere the mobile 
 signal strength is too low or no signal at all. This application will very useful in that kind of situations because 
 Wi-Fi Direct technology can cover around 60m or 70m.
 ## DisasterRescueChat
